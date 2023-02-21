@@ -4,7 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 computer scientists and cyber security
 --------------------------------------
 
-👋 Hey there, I'm mur1chan! I'm a computer science and cyber security student who's always up for a coding challenge. 😎 🌟 I'm into streetwear and love to incorporate my personal style into my coding projects. You'll often find me coding away in my favorite pair of sneakers and graphic tee. 😍👕 🚀 I'm constantly striving to learn and grow, and GitHub has been an awesome resource for me. I love exploring new technologies and experimenting with different programming languages. （＾ｖ＾） 👨‍💼 Currently, I'm on the hunt for exciting internship opportunities in the tech industry. Got any leads? Shoot them my way! :> 💻 Check out my repositories to see some of my past and current projects. I'm always open to feedback and collaboration, so feel free to drop me a line! (^^) 🎨 When I'm not coding, you'll find me getting creative with graphic design, illustration, or even some DIY fashion projects. I'm all about bringing a little creativity to everything I do. 💫 Thanks for stopping by, and I hope we can connect and collaborate soon! ´･ᴗ･\`
+👋 Hey there, I'm mur1chan! I'm a computer science and cyber security student who's always up for a coding challenge. 😎 
+🌟 I'm into streetwear and love to incorporate my personal style into my coding projects. You'll often find me coding away in my favorite pair of sneakers and graphic tee. 😍👕 
+🚀 I'm constantly striving to learn and grow, and GitHub has been an awesome resource for me. I love exploring new technologies and experimenting with different programming languages. （＾ｖ＾） 👨‍💼 Currently, I'm on the hunt for exciting internship opportunities in the tech industry. Got any leads? Shoot them my way! :> 
+💻 Check out my repositories to see some of my past and current projects. I'm always open to feedback and collaboration, so feel free to drop me a line! (^^) 
+🎨 When I'm not coding, you'll find me getting creative with graphic design, illustration, or even some DIY fashion projects. I'm all about bringing a little creativity to everything I do. 
+💫 Thanks for stopping by, and I hope we can connect and collaborate soon! ´･ᴗ･\`
 
 *   🖥️  See my portfolio at [github](http://github.com/mur1chan/ebay-kleinanzeigen-monitor)
 *   🧠  I'm learning Selenium### Skills 
