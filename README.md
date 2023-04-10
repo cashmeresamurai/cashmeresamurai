@@ -17,7 +17,7 @@ computer scientists and cyber security
 💫 Thanks for stopping by, and I hope we can connect and collaborate soon! ´･ᴗ･\`
 
 * 🖥️  See my portfolio at [github](http://github.com/mur1chan/ebay-kleinanzeigen-monitor)
-* 🧠  I'm learning Selenium
+* 🧠  I'm learning Django
 
 ### Skills
 
