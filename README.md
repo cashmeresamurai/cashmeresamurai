@@ -9,8 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgur.com/A2aeIm9.jpg"  />
-
 ###
 <h2 align="left">Skills</h2>
 <div align="left">
