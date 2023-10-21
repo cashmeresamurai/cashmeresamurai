@@ -37,6 +37,6 @@
 
 <h2 align="left">Setup 💻️ 👋!</h2>
 
-<img src="https://i.imgur.com/QiasxSa.png" alt="thinkpad t480s"/>
+<img src="https://i.imgur.com/QiasxSa.png" alt="thinkpad t480s" width="50%"/>
 
 ###
