@@ -31,10 +31,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
 </div>
-
+<h2 align="left">Setup 💻️ 👋!</h2>
+<div align="left">
+  [Imgur](https://imgur.com/QiasxSa)
+</div>
 ###
 
-<div align="left">
-</div>
+
 
 ###
