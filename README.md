@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋!</h2>
+<h2 align="left">Hi! 🐼</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 ###
 
 ###
-<h2 align="left">Skills</h2>
+<h2 align="left">Skills 🧠</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
