@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋!</h2>
+<h2 align="center">Hi 👋!</h2>
 
 ###
 
@@ -10,8 +10,8 @@
 ###
 
 ###
-<h2 align="left">Skills</h2>
-<div align="left">
+<h2 align="center">Skills</h2>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://www.rust-lang.org/logos/rust-logo-blk.svg" height="30" alt="rust logo"  />
@@ -35,7 +35,7 @@
 
 ###
 
-<h2 align="left">Setup 💻️</h2>
+<h2 align="center">Setup 💻️</h2>
 <div align="center">
   <img src="https://i.imgur.com/QiasxSa.png" alt="thinkpad t480s" width="50%"/>
 </div>
