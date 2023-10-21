@@ -37,7 +37,7 @@
 
 <h2 align="left">Setup 💻️</h2>
 <div align="center">
-  <h3 align="left">Thinkpad T480s</h3>
+  <h3 align="center">Thinkpad T480s</h3>
   <img src="https://i.imgur.com/QiasxSa.png" alt="thinkpad t480s" width="50%"/>
 </div>
 
