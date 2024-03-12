@@ -21,13 +21,3 @@
 
 
 ###
-
-<h2 align="left">Setup 💻️</h2>
-<div align="center">
-  <h3 align="center">Thinkpad T480s</h3>
-  <img src="https://i.imgur.com/iKEnAsz.png" alt="thinkpad t480s" width="75%"/>
-<p></p>
-  <img src="https://i.ibb.co/HgNKH1W/neoofetch-pc.png" alt="pc" width="75%"> 
-</div>
-
-###
